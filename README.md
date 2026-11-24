@@ -9,6 +9,7 @@ The analysis uses Python and Pandas to perform data filtering, sorting, aggregat
 
 ## 📂 Project Structure
 
+```text
 Countries-Data-Analysis/
 │
 ├── Countries.ipynb
@@ -16,7 +17,7 @@ Countries-Data-Analysis/
 │   └── Countries.csv
 │
 └── README.md
-
+```
 
 ## 📊 Dataset Details
 
